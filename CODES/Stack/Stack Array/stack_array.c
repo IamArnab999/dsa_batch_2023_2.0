@@ -94,7 +94,7 @@ int main()
             exit(0);
             break;
         default:
-            printf("Invalid chocie........");
+            printf("Invalid choice........");
         }
     }
     return 0;
